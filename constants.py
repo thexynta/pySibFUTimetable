@@ -27,7 +27,7 @@ class MyTime(datetime.time):
             raise TypeError("type(group) must be %s" % type(datetime.time))
 
 
-TOKEN = '517964933:AAHzA1wHMDmLLb559brQKTWsxr0lq1mJrOQ'
+TOKEN = 'token'
 
 # htmlTimetableParser
 URL_TIMETABLES = 'http://edu.sfu-kras.ru/timetable'
